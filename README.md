@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack Developer | Flutter & Laravel Enthusiast</h3>
 
 <p align="center">
+  <b>Discover my work, projects, and more on my website:</b><br>
   <a href="https://smart.iraqisolutions.com/?fbclid=IwY2xjawL1mINleHRuA2FlbQIxMABicmlkETFKaWR4QTNINnZkbTg3dXR1AR733pfmVCbn2OCeMU8tarIC79GrOAhZKFkt2xMPlMHClbes58jDoZyhri_Ugw_aem_xF8cZ2G3ENZsfnF-LMTFbw" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/stevenslewa.com-Visit%20Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
 
