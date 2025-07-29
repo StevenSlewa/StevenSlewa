@@ -23,23 +23,22 @@
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61556117211117" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://smart.iraqisolutions.com/?fbclid=IwY2xjawL1mINleHRuA2FlbQIxMABicmlkETFKaWR4QTNINnZkbTg3dXR1AR733pfmVCbn2OCeMU8tarIC79GrOAhZKFkt2xMPlMHClbes58jDoZyhri_Ugw_aem_xF8cZ2G3ENZsfnF-LMTFbw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/steven-matti-352197187" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:steven.slewa96@gmail.com" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+  <a href="https://wa.me/9627501684553" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
+  <a href="https://t.me/+9627501684553" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
