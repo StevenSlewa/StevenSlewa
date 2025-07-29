@@ -47,13 +47,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StevenSlewa&theme=darkhub&no-frame=true&row=1&column=7" />
-  <br/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=StevenSlewa&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenSlewa&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/>
-  <br/>
-  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=StevenSlewa&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenSlewa&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenSlewa&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenSlewa&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 ---
