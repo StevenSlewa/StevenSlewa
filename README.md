@@ -2,6 +2,12 @@
 <h3 align="center">Full-Stack Developer | Flutter & Laravel Enthusiast</h3>
 
 <p align="center">
+  <a href="https://smart.iraqisolutions.com/?fbclid=IwY2xjawL1mINleHRuA2FlbQIxMABicmlkETFKaWR4QTNINnZkbTg3dXR1AR733pfmVCbn2OCeMU8tarIC79GrOAhZKFkt2xMPlMHClbes58jDoZyhri_Ugw_aem_xF8cZ2G3ENZsfnF-LMTFbw" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+functional+code+;Building+scalable+web+solutions;Passionate+about+clean+architecture" alt="Typing SVG" height="200" /></a>
 </p>
