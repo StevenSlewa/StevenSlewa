@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Steven Slewa</h1>
 <h3 align="center">Full-Stack Developer | Flutter & Laravel Enthusiast</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/><br>
-  <a href="https://smart.iraqisolutions.com/?fbclid=IwY2xjawL1mINleHRuA2FlbQIxMABicmlkETFKaWR4QTNINnZkbTg3dXR1AR733pfmVCbn2OCeMU8tarIC79GrOAhZKFkt2xMPlMHClbes58jDoZyhri_Ugw_aem_xF8cZ2G3ENZsfnF-LMTFbw" target="_blank"><b>smart.iraqisolutions.com</b></a>
+  <b>✨ Visit my digital home for more about me and my work:</b><br>
+  <a href="https://smart.iraqisolutions.com/?fbclid=IwY2xjawL1mINleHRuA2FlbQIxMABicmlkETFKaWR4QTNINnZkbTg3dXR1AR733pfmVCbn2OCeMU8tarIC79GrOAhZKFkt2xMPlMHClbes58jDoZyhri_Ugw_aem_xF8cZ2G3ENZsfnF-LMTFbw" target="_blank"><u>smart.iraqisolutions.com</u></a>
 </p>
 
 <p align="center">
