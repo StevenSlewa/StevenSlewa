@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Slewa</h1>
-<h3 align="center">Full-Stack Developer | Python & JavaScript Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Flutter & Laravel Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
