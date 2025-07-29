@@ -15,8 +15,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,postgres,mongodb,docker,git,github,html,css,vscode" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,mysql,react,blade,nextjs,python,js,ts,nodejs,express,postgres,mongodb,docker,git,github,html,css" />
 </div>
 
 ---
